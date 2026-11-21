@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "1316dc49-ca59-435f-a56c-9b1934f63ef9",
-    "slug": "1316dc49-ca59-435f-a56c-9b1934f63ef9",
+    "name": "app-gestor-conteudo",
+    "slug": "app-gestor-conteudo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "1316dc49ca59435fa56c9b1934f63ef9",
+    "scheme": "appgestorconteudo",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
